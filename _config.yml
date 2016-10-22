@@ -9,7 +9,7 @@
 title: Clifford E. Wulfman
 email: cwulfman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a chimera, with the head of a literary scholar, the body of a computer scientist, and the tail of a librarian.
+  personal website of a digital chimera
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cwulfman.github.io" # the base hostname & protocol for your site
 twitter_username: cwulfman
